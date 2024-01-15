@@ -1,2 +1,2 @@
 # coursera_angularjs
-Repo is used to complete and submit assignments.
+This Project and Repository is used to complete and submit assignments.
